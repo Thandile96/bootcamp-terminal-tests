@@ -1,4 +1,4 @@
-module.exports = function(regNumber, location) {
+module.exports = function regCheck(regNumber, location) {
     if(regNumber.includes(location)) {
       return true;
     }

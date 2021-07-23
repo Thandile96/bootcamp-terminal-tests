@@ -1,4 +1,4 @@
-module.exports = function(shift) {
+module.exports = function transportFee(shift) {
     if(shift==="morning") {
       return 'R20';
     } 

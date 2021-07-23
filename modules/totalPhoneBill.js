@@ -1,4 +1,4 @@
-module.exports = function(phoneActivity) {
+module.exports = function totalPhoneBill(phoneActivity) {
     console.log(phoneActivity)
     var newList = phoneActivity.split(", ");
     //console.log(newList)

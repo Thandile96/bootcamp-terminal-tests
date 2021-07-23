@@ -1,4 +1,4 @@
-module.exports = function(departMent){
+module.exports = function mostProfitableDepartment(departMent){
     //console.log(department.length)
       var departMentMap = {};
       //console.log(departmentMap)

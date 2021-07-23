@@ -1,4 +1,4 @@
-module.exports = function(itemList){
+module.exports = function findItemsOver20(itemList){
     //console.log(itemList)
       var expensiveItems = [];
       

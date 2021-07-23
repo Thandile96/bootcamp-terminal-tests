@@ -1,4 +1,4 @@
-module.exports = function(regNumber) {
+module.exports = function fromWhere(regNumber) {
     console.log(regNumber)
       if(regNumber.startsWith("CY")) {
        return "Bellville";

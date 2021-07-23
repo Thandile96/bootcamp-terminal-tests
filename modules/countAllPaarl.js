@@ -1,4 +1,4 @@
-module.exports = function(regNumber) {
+module.exports = function countAllFromTown(regNumber) {
     console.log(regNumber);
   // change the string into an array to loop through the data
    var newList = regNumber.split(', ');
