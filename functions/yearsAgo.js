@@ -1,4 +1,4 @@
-module.exports = function(year){
+module.exports = function yearsAgo(year){
     var current = new Date();
       console.log(current);
     var year2 = current.getFullYear(); 

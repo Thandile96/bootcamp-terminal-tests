@@ -1,5 +1,5 @@
 module.exports = function(day) {
-    if(day.startsWith("M") || day.startsWith("T") || day.startsWith("F")) {
+    if(day.startsWith("M") || day.startsWith("T")  || day.startsWith("W")|| day.startsWith("F")) {
        return true;
     }
        else {
