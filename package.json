@@ -2,7 +2,7 @@
   "name": "mocha",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "countAllFromTown.js",
   "directories": {
     "test": "test"
   },
@@ -11,13 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Thandile96/bootcamp-terminal-tests.git"
+    "url": "git+https://github.com/Thandile96/first_terminal_test.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Thandile96/bootcamp-terminal-tests/issues"
+    "url": "https://github.com/Thandile96/first_terminal_test/issues"
   },
   "homepage": "https://github.com/Thandile96/bootcamp-terminal-tests#readme",
   "devDependencies": {
